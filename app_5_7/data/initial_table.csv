@@ -1,0 +1,10 @@
+Growth_Month_NUM,Growth_Month_NAME,Growth_Month_GLYPH,Genus,Species,Common_N,Scientific_Name,Commercial_Avail,TE_Indicator_Final,Flowering,Fire_Resistance,Fire_Tolerance,Drought_Tolerance,Moisture_Use,Edible_Human,Edible_Animal,Berry_Nut_Seed,Image_Link,Precip_Min,Temp_Min
+3,Mar,fas fa-cloud-sun-rain,Veronica,americana,American speedwell,Veronica americana,Routinely Available,NA,Yes,Yes,High,Low,High,No,Medium,No,https://species.wikimedia.org/wiki/Veronica_americana,16,-38
+4,Apr,fas fa-cloud-sun-rain,Thelypteris,noveboracensis,New York fern,Thelypteris noveboracensis,Routinely Available,Exploitably Vulnerable,No,No,Medium,Medium,Low,No,Low,No,https://species.wikimedia.org/wiki/Thelypteris_noveboracensis,30,-28
+5,May,fas fa-cloud-sun-rain,Hypoxis,hirsuta,common goldstar,Hypoxis hirsuta,Routinely Available,NA,Yes,No,High,Medium,Medium,No,NA,No,https://species.wikimedia.org/wiki/Hypoxis_hirsuta,18,-33
+6,Jun,fas fa-sun,Chimaphila,umbellata,pipsissewa,Chimaphila umbellata,Contracting Only,Exploitably Vulnerable,Yes,Yes,High,Medium,Low,No,NA,No,https://species.wikimedia.org/wiki/Chimaphila_umbellata,30,-38
+7,Jul,fas fa-sun,Anemone,multifida,Pacific anemone,Anemone multifida,Contracting Only,NA,Yes,No,Low,Low,Medium,No,Low,No,https://species.wikimedia.org/wiki/Anemone_multifida,40,-23
+8,Aug,fas fa-sun,Castilleja,coccinea,scarlet Indian paintbrush,Castilleja coccinea,Routinely Available,Endangered,Yes,No,None,Low,Medium,No,NA,No,https://species.wikimedia.org/wiki/Castilleja_coccinea,25,-28
+9,Sep,fas fa-cloud-sun,Carex,bigelowii,Bigelow's sedge,Carex bigelowii,No Known Source,Threatened,No,No,High,Low,Medium,No,Low,No,https://species.wikimedia.org/wiki/Carex_bigelowii,36,-43
+10,Oct,fas fa-cloud-sun,Gentiana,andrewsii,closed bottle gentian,Gentiana andrewsii,Routinely Available,Exploitably Vulnerable,Yes,No,Medium,Medium,Medium,No,Low,No,https://species.wikimedia.org/wiki/Gentiana_andrewsii,36,-38
+11,Nov,fas fa-cloud-sun,Carex,frankii,Frank's sedge,Carex frankii,Routinely Available,Endangered,No,No,High,Low,High,No,Low,No,https://species.wikimedia.org/wiki/Carex_frankii,18,-23
